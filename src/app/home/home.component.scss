@@ -1,0 +1,21 @@
+.main-image {
+    width: 650px;
+}
+
+@media (max-width: 768px) {
+    .main-image {
+        width: 100%;
+    }
+}
+
+h3 {
+    color: #a02f33;
+    font-weight: bold;
+
+}
+
+p {
+    color: #f5862a;
+    font-weight: bold;
+    font-size: 22px;
+}
